@@ -164,9 +164,10 @@ h1,p {
 
 .contain-all {
     display: flex;
-    
+    justify-content: center;
     align-items: center;
     vertical-align: top;
+    background-color: rgb(209, 202, 202);
 }
 
 .bottom-right {
